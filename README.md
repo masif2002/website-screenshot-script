@@ -1,7 +1,7 @@
 # Website Screenshot Script
 
 ## How to Run 
-* Install `requirements.txt`
+* Install dependencies from `requirements.txt`
 ```
 pip install -r requirements.txt
 ```
